@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello! My name is Enes, and I am a junior web developer. I am taking my first steps in the web world and I am passionately focused on developing myself in this field. Although I don't have professional experience yet, I developed my own projects with the web programming training that I attended in 1 year individual and 6 months vector academy. During this time, I have become familiar with basic web technologies and acquired skills in creating web pages using fundamental languages and tools like HTML, CSS, and JavaScript. As a junior developer, I enjoy constantly learning and researching to improve myself. Keeping up with new technologies, trends, and best practices is important to me. By doing so, I strive to integrate the most up-to-date and effective solutions into my projects. I value teamwork and communication greatly. I am a good communicator and can collaborate effectively with team members to solve problems. I am open to feedback and appreciate constructive criticism to help me grow. My goal is to enhance my abilities by working with mentors and experienced developers, gaining real-world experience in projects. I am confident and eager to join new projects and gain more expertise. If you have an opportunity for a junior web developer to contribute to your projects or team, I assure you that I will do my best to demonstrate my growth potential in this field. I am excited to assist you or provide further information. Please feel free to get in touch!
  
-Best regards, 
+Best regards,
+
 Enes AYDOGDU
 
 
