@@ -21,9 +21,6 @@ Hello! My name is Enes, and I am a junior web developer.<br>My goal is to utiliz
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayd0gdu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://www.memedroid.com/memes/detail/1863965" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayd0gdu&icon=0&color=0)](https://visitcount.itsvg.in)
 
